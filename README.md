@@ -26,9 +26,7 @@ Clean Architecture separa el código en **capas concéntricas** donde las depend
 └─────────────────────────────────────────────────────────┘
 ```
 
-## 🎯 Los Dos Proyectos
-
-## � ¿Qué hace este proyecto?
+## 📚 ¿Qué hace este proyecto?
 
 Este proyecto implementa un **sistema de gestión de usuarios** completo siguiendo los principios de Clean Architecture. Permite crear, buscar, listar, actualizar y eliminar usuarios con validación de DNI español.
 
