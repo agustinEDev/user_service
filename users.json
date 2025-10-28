@@ -1,0 +1,12 @@
+{
+    "12345678Z": {
+        "username": "María",
+        "lastname": "López Fernández",
+        "dni": "12345678Z"
+    },
+    "87654321X": {
+        "username": "Juan",
+        "lastname": "Pérez Gómez",
+        "dni": "87654321X"
+    }
+}
